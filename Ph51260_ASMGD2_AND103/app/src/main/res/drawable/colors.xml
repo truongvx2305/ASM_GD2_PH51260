@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#4C8E4B</color>
+    <color name="secondary">#9CA19D</color>
+    <color name="red">#FF3B3B</color>
+    <color name="text_1">#0D110E</color>
+    <color name="text_3">#A0A5A0</color>
+    <color name="text_2">#282A27</color>
+    <color name="background">#F5F5F5</color>
+    <color name="background_button_circle">#ECECEC</color>
+    <color name="background_red">#F7E1E2</color>
+    <color name="yellow">#FEBA01</color>
+    <color name="grey">#CCC</color>
+</resources>
